@@ -14,7 +14,7 @@
 
 [Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
 
-# TODOs: Stretch Goals:
+# Stretch Goals:
   1. Use media queries to re-style the header and navigation on desktop-width screens. Nav should be tab-like links on one row.
 
 
