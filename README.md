@@ -3,9 +3,7 @@
 
 ## Getting started with pair programming
 
-Take a moment to shake hands and introduce yourselves.
-
-You and your pair may have different experience levels, which is normal. You'll have opportunities to both teach and learn from your pair. Keep an open mind, and always be kind.
+Take a moment to shake hands and introduce yourselves. You and your pair may have different experience levels, which is normal. You'll have opportunities to both teach and learn from your pair. Keep an open mind, and always be kind.
 
 The workflow may take a little getting used to, so give yourself time to work through any git issues (aka: "gituations") that arise.
 
@@ -21,7 +19,7 @@ The workflow may take a little getting used to, so give yourself time to work th
   1. Set up the viewport and fluid media rules so content fits on mobile devices.
   1. Add a "Hamburger" menu button, that reveals the nav links when tapped on a mobile device.
 
-[Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
+- [Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
 
 ## Stretch Goals:
   1. Use media queries to re-style the header and navigation on desktop-width screens. Nav should be tab-like links on one row.
