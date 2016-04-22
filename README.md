@@ -3,13 +3,12 @@
 
 1. Driver forks and clones down this repo.  
 2. `cd` into the repo and open the starter-code folder in Atom.  
-
-- Search through the code for `TODO:` comments, where features should be, and incorporate the new code there.
+3. Start by reviewing the existing code. What is our content? How are the semantics? Initial styles?
+4. Search through the code for `TODO:` comments, where features should be, and incorporate the new code there.
 
 - Take turns as "driver" and "navigator", alternating roles half-way (typically a couple TODOs or one hour, whichever arrives first).
 
 ## TODOs: MVP
-  1. Start by reviewing the existing code. What is our content? How are the semantics? Initial styles?
   1. Set up the viewport and fluid media rules so content fits on mobile devices.
   1. Add a "Hamburger" menu button, that reveals the nav links when tapped on a mobile device.
 
