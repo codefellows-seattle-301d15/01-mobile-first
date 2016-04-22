@@ -1,6 +1,14 @@
 # Responsive Web Apps & SMACSS
 ### Help make our Blog web app mobile-first responsive!
 
+## Getting started with pair programming
+
+Take a moment to shake hands and introduce yourselves.
+
+You and your pair may have different experience levels, which is normal. You'll have opportunities to both teach and learn from your pair. Keep an open mind, and always be kind.
+
+The workflow may take a little getting used to, so give yourself time to work through any git issues (aka: "gituations") that arise.
+
 1. Driver forks and clones down this repo.  
 2. `cd` into the repo and open the starter-code folder in Atom.  
 3. Start by reviewing the existing code. What is our content? How are the semantics? Initial styles?
@@ -14,7 +22,7 @@
 
 [Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
 
-# Stretch Goals:
+## Stretch Goals:
   1. Use media queries to re-style the header and navigation on desktop-width screens. Nav should be tab-like links on one row.
 
 
