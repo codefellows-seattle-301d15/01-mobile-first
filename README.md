@@ -3,7 +3,7 @@
 
 ## Getting started with pair programming
 
-Take a moment to shake hands and introduce yourselves. You and your pair may have different experience levels, which is normal. You'll have opportunities to both teach and learn from your pair. Keep an open mind, and always be kind.
+Take a moment to shake hands and introduce yourselves. You and your pair may have different experience levels, which is normal. You'll have opportunities to both teach and learn from your partner. Keep an open mind, and always be kind :)
 
 The workflow may take a little getting used to, so give yourself time to work through any git issues (aka: "gituations") that arise.
 
