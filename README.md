@@ -1,4 +1,5 @@
-# Responsive Web Apps & SMACSS
+![CF](https://i.imgur.com/7v5ASc8.png)  01-mobile-first
+=======
 ### Help make our Blog web app mobile-first responsive!
 
 ## Getting started with pair programming
@@ -7,7 +8,7 @@ Take a moment to shake hands and introduce yourselves. You and your pair may hav
 
 The workflow may take a little getting used to, so give yourself time to work through any git issues (aka: "gituations") that arise.
 
-**Take turns as "driver" and "navigator", alternating roles half-way (typically a couple TODOs or one hour, whichever arrives first).**
+**Take turns as 'driver' and 'navigator', alternating roles half-way (typically a couple TODOs or one hour, whichever arrives first).**
 
 1. Driver forks and clones down this repo.  
 2. `cd` into the repo and open the starter-code folder in Atom.  
