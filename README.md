@@ -1,5 +1,6 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  01-mobile-first
 =======
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d4/01-mobile-first.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/01-mobile-first)
 ### Help make our Blog web app mobile-first responsive!
 
 ## Getting started with pair programming
@@ -10,8 +11,8 @@ The workflow may take a little getting used to, so give yourself time to work th
 
 **Take turns as 'driver' and 'navigator', alternating roles half-way (typically a couple TODOs or one hour, whichever arrives first).**
 
-1. Driver forks and clones down this repo.  
-2. `cd` into the repo and open the starter-code folder in Atom.  
+1. Driver forks and clones down this repo.
+2. `cd` into the repo and open the starter-code folder in Atom.
 3. Start by reviewing the existing code. What is our content? How are the semantics? Initial styles?
 4. Search through the code for `TODO:` comments, where features should be, and incorporate the new code there.
 
