@@ -1,4 +1,5 @@
-# Responsive Web Apps & SMACSS
+![CF](https://i.imgur.com/7v5ASc8.png)  01-mobile-first
+=======
 ### Help make our Blog web app mobile-first responsive!
 
 ## Getting started with pair programming
