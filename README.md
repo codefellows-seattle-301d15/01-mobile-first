@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  01-mobile-first
+![CF](https://i.imgur.com/7v5ASc8.png)  Lab 01: Mobile First
 =======
 [![Build Status](https://travis-ci.org/codefellows-seattle-301d4/01-mobile-first.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d4/01-mobile-first)
 ### Help make our Blog web app mobile-first responsive!
