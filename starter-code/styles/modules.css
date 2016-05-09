@@ -1,0 +1,64 @@
+.site-header {
+  background: #FFEAAA;
+}
+
+/* DONE: Float the main header to the left, to make room for the hamburger menu. */
+.heading-group-h1 {
+  float: left;
+  padding: 0 0 .2em 1em;
+}
+
+/* TODO: Add styles for the icon-menu class (whether it be the hamburger font
+  or an image of your choosing). It should be bigger, and off to the right. */
+.icon-menu {
+
+}
+
+.main-nav {
+  padding: 0.1em;
+}
+
+.main-nav ul {
+  display: none;
+  padding: 0;
+  list-style: none;
+  clear: both;
+}
+
+.main-nav:hover ul {
+  display: block;
+}
+
+.main-nav li {
+  margin-right: .4em;
+  font-size: 1.5em;
+  padding: .5em .2em;
+  border-bottom: 1px solid #ccc;
+}
+
+#filters {
+  padding: 0;
+  list-style: none;
+}
+
+.template {
+  display: none;
+}
+
+.byline {
+  color: #777;
+}
+
+.byline a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* TODO: Now add styles for how things should look on a larger screen,
+   (hint: min is in!):
+@media only screen...
+         - Hide the hamburger.
+         - Display our unordered list (aka our nav links).
+         - The main-nav should be all on one row, with padding spaced better
+           for a larger screen.
+*/
