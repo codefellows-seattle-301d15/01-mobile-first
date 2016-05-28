@@ -24,7 +24,7 @@ The workflow may take a little getting used to, so give yourself time to work th
 
 - [Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
 
-## Stretch Goals:
+## Stretch Goals (*not required*):
   1. Use media queries to re-style the header and navigation on desktop-width screens. Nav should be tab-like links on one row.
 
 
