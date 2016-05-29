@@ -26,7 +26,7 @@ Here is the recommended workflow:
 3. `cd my-forked-labs`
 1. `git clone` this repo.
 1. `cd` into this repo.
-1. Immediately `git checkout -b` driver-name-navigator-name (ex: git checkout -b rick-brian).  
+1. Immediately `git checkout -b` driver-name-navigator-name (ex: `git checkout -b rick-brian`).  
 
 ## Write code together!
 
