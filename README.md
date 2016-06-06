@@ -80,6 +80,7 @@ When you are finished with lab (or if the 2 hour time limit runs out), please su
 ## TODOs: MVP
   1. Set up the viewport and fluid media rules so content fits on mobile devices.
   1. Add a "Hamburger" menu button, that reveals the nav links when tapped on a mobile device.
+  2. Ensure the images are responsive :wink:
 
 - [Video: Mobile Testing Tip for Your Phone] (https://www.youtube.com/watch?v=2t4E_tc8TKM)
 
