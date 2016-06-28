@@ -16,6 +16,10 @@
   max-width: 80%;
 }
 
+#about {
+  display: none;
+}
+
 #filters select {
   width: 90%;
   margin: .2em 5%;
