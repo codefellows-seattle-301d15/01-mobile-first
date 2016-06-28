@@ -1,6 +1,6 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Lab 01: Mobile First
 =======
-[![Build Status](https://travis-ci.org/codefellows-seattle-301d4/01-mobile-first.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/01-mobile-first) [![GitHub issues](https://img.shields.io/badge/Issues%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d7/issues/new)
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d9/01-mobile-first.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/01-mobile-first) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d9/issues/new)
 
 ### Help make our Blog web app mobile-first responsive!
 
@@ -86,5 +86,3 @@ When you are finished with lab (or if the 2 hour time limit runs out), please su
 
 ## Stretch Goals (*not required*):
   1. Use media queries to re-style the header and navigation on desktop-width screens. Nav should be tab-like links on one row.
-
-
